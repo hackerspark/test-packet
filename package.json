@@ -1,0 +1,24 @@
+{
+  "name": "test-packet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackerspark/test-packet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackerspark/test-packet/issues"
+  },
+  "homepage": "https://github.com/hackerspark/test-packet#readme",
+  "dependencies": {
+    "serve": "^11.3.0",
+    "xterm": "^4.5.0"
+  }
+}
